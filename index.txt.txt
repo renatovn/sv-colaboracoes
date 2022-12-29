@@ -1,0 +1,36 @@
+<html>
+<head> 
+<title> Atividade de Vrsionamento </title>
+</head>
+<body> 
+<h1> Título1
+</body>
+</html>
+
+
+
+-Publicar seu arquivo na branch;
+-cria uma nova branch, chamada feature 1;
+-na branch feature1, publicar o mesmo arquivo;
+-realizar sguinte alteração na linha h1 do arquivo da branch main;
+ <html>
+<head> <title> Atividade de versionamento <title> </head>
+<body>
+<h1> Versionamento </h1>
+</body>
+</html>
+
+-realizar seguinte alteração na linha h1 do arquivo da branch feature1;
+
+<html>
+<head> <title> Atividade de versionamento <itle></head>
+<body>
+<h1> GIT</h1>
+</body>
+</html>
+
+-realizar o merge da branch feature1 com a branch main;
+-resolver os conflitos apresentados.
+
+Compartilhe o resultado do seu trabalho, publicano aqui o link do repositório
+remoto e do arquivo index.txt criados, para que o tutor possa avaliar seu trabalho.
