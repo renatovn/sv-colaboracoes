@@ -3,11 +3,8 @@
 <title> Atividade de Vrsionamento </title>
 </head>
 <body> 
-<<<<<<< HEAD
-<h1> GIT </h1>
-=======
+<h1> GIT - VERSIONAMENTO </h1>
 <h1> VERSIONAMENTO </h1>
->>>>>>> main
 </body>
 </html>
 
